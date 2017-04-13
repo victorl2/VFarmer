@@ -2,7 +2,7 @@
 A atempt in automate the farming process for the android game Armpit Hero.
 
 # About the app
-Designed for the <i>android emulator</i> the Andy  http://www.andyroid.net/ , the app is currently on development in early stages. The following functions are automated: 
+Designed for the <i>android emulator</i> Andy  http://www.andyroid.net/ , the app is currently on development in early stages. The following functions are automated: 
 
 <ul>
 <li>Collecting currency in the bank deposit.</li>
