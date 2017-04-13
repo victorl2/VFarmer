@@ -9,6 +9,7 @@ Designed for the <i>android emulator</i> Andy  http://www.andyroid.net/ , the ap
 <li>Casting habilities if there is anough mana and coldown.</li>
 <li>Capture every prize chest that randomly apears on the screen, also watching the ads for free crystals</li>
 <li>Collect prizes after beating stages</li>
+</ul>
 
 # How to use
 
