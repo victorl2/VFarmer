@@ -14,9 +14,9 @@ Designed for the <i>android emulator</i> the Andy  http://www.andyroid.net/ , th
 
 <ol>
 <li>Download the app.</li>
-<li>Open your andy emulator</li>
-<li>Open on the emulator</li>
-<li>Run the app</li>
+<li>Open your andy emulator.</li>
+<li>Open on the emulator.</li>
+<li>Run the app.</li>
 </ol>
 
 
