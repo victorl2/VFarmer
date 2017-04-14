@@ -16,8 +16,8 @@ Designed for the <i>android emulator</i> Andy  http://www.andyroid.net/ , the ap
 <ol>
 <li>Download the app.</li>
 <li>Open your andy emulator.</li>
-<li>Open the game on the emulator.</li>
-<li>Run VFarmer app.</li>
+<li>Open the game on andy emulator.</li>
+<li>Run VFarmer.</li>
 </ol>
 
 
